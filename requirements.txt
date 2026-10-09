@@ -1,0 +1,4 @@
+# No third-party pip packages required.
+# Requires Python 3.10+ with Tkinter (Tcl/Tk) installed.
+# Tkinter is included with standard Windows Python installations;
+# it is not installed via pip.
